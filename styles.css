@@ -62,7 +62,7 @@ img{
 .notification{
     position:absolute;
     right:0.02%;
-    bottom:70%;
+    bottom:75%;
     color:white;
     padding:3%;
     border-radius:100%;
@@ -119,14 +119,15 @@ form{
 input{
     padding:0.5em 7.3em 0.5em 0;
     margin:5% 0;
+    
 }
 input:focus {
 	outline: none;
-  	border: 1px solid #f6fff8;
-      background-color: #edf2fb;
+  	border: 1px solid #1877F2;
+      background-color:#f6fff8;
 }
 ::placeholder{
-    color:#e9ecef;
+    color:grey;
 }
 .login{
     width:100%;
